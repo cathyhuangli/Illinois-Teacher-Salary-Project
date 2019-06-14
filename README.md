@@ -1,5 +1,5 @@
 # Illinois Public School Teacher Salary Prediction & Fairness Assessment
-Group Project: Lukasz Filipek, Ki Young Han, Li Huang, Robin Wilcox
+Group Members: Lukasz Filipek, Ki Young Han, Li Huang, Robin Wilcox
 
 Salary across genders appears to be a topic of great interest and controversy recently.  We see examples such as Google analyzing salaries paying out $9.7million, to even the playing field, of additional compensation to 10,677 employees where a higher percentage of the money went to men.  If Google found something interesting in their dataset of candidates, it is compelling to analyze other datasets containing salary information for inequity.  What makes such an analysis interesting, yet challenging, is that inequity itself is not necessarily anything meaningful, and that is why an analysis has to take into consideration any variable available to make sure one is comparing like populations and isolating only one variable, in this case, gender and ethnicity.
 
